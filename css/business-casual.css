@@ -72,3 +72,11 @@ hr.divider {
 .map-container iframe.clicked {
   pointer-events: auto;
 }
+
+.-js-badge-filter {
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
+}

@@ -2,9 +2,18 @@
 layout: default
 title: "| Projetos"
 ---
-
+<div class="bg-faded pl-4 pt-4 pl-4 pb-2 my-4">
+  <h5>
+    Áreas de projeto:<br />
+    {% for tag in site.data.tags %}
+      <span class="badge badge-dark -js-badge-filter" data-filter-class="{{ tag.name | slugify }}">
+        {{ tag.name }}
+      </span>
+    {% endfor %}
+  </h5>
+</div>
 {% for project in site.data.projects %}
-  <div class="bg-faded p-4 my-4">
+  <div class="bg-faded p-4 my-4 -js-project-box {% for tag in project.tags %} {{ tag | slugify }}{% endfor %}">
     <div class="card card-inverse">
       <img class="card-img img-fluid w-100" src="img/core/projects/{{ project.image_name }}" alt="">
       <div class="card-img-overlay">
@@ -24,3 +33,21 @@ title: "| Projetos"
     </div>
   </div>
 {% endfor %}
+<script type="text/javascript">
+  $(function() {
+    $('.-js-badge-filter').on('click', function(e) {
+      e.preventDefault();
+      if($(this).hasClass('badge-dark')) {
+        $('.badge-secondary').addClass('badge-dark').removeClass('.badge-secondary');
+        $(this).removeClass('badge-dark');
+        $(this).addClass('badge-secondary');
+        $('.-js-project-box').addClass('hide');
+        $('.'+$(this).data('filter-class')).removeClass('hide');
+      } else {
+        $(this).addClass('badge-dark');
+        $(this).removeClass('badge-secondary');
+        $('.-js-project-box').removeClass('hide');
+      }
+    });
+  });
+</script>
