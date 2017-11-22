@@ -1,0 +1,26 @@
+---
+layout: default
+title: "| Projetos"
+---
+
+{% for project in site.data.projects %}
+  <div class="bg-faded p-4 my-4">
+    <div class="card card-inverse">
+      <img class="card-img img-fluid w-100" src="img/core/projects/{{ project.image_name }}" alt="">
+      <div class="card-img-overlay">
+        <h2 class="card-title text-shadow text-white text-uppercase mb-0">
+          {{ project.title }}
+        </h2>
+        <p>
+          {% for tag in project.tags %}
+            <span class="badge badge-light">{{ tag }}</span>
+          {% endfor %}
+        </p>
+        <h4 class="text-shadow text-white">{{ project.dates }}</h4>
+        <p class="lead card-text text-shadow text-white w-50 d-none d-lg-block">
+          {{ project.description }}
+        </p>
+      </div>
+    </div>
+  </div>
+{% endfor %}

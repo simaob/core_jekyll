@@ -1,0 +1,72 @@
+---
+layout: default
+title: "| Contacte-nos"
+---
+
+<div class="bg-faded p-4 my-4">
+  <hr class="divider">
+  <h2 class="text-center text-lg text-uppercase my-0">Contate
+    <strong>Core Concept</strong>
+  </h2>
+  <hr class="divider">
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="embed-responsive embed-responsive-16by9 map-container mb-4 mb-lg-0">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3000.799304219538!2d-8.603522884156918!3d41.2261438792792!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2466eeec99e9a7%3A0x4cf8ee92de00b610!2sCore+Concept!5e0!3m2!1sen!2suk!4v1511030937049" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <h5 class="mb-0">Telefone:</h5>
+      <div class="mb-4">+351 22 9440051</div>
+      <h5 class="mb-0">Email:</h5>
+      <div class="mb-4">
+        <a href="mailto:info@coreconcept.pt">info@coreconcept.pt</a>
+      </div>
+      <h5 class="mb-0">Morada:</h5>
+      <div class="mb-4">
+        Largo de Mogos, Lote 15
+        <br>
+        4470-343 Vermoim, Maia
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="bg-faded p-4 my-4">
+  <hr class="divider">
+  <h2 class="text-center text-lg text-uppercase my-0">Formulário de
+    <strong>Contato</strong>
+  </h2>
+  <hr class="divider">
+  <form>
+    <div class="row">
+      <div class="form-group col-lg-4">
+        <label class="text-heading">Nome</label>
+        <input type="text" class="form-control">
+      </div>
+      <div class="form-group col-lg-4">
+        <label class="text-heading">Email</label>
+        <input type="email" class="form-control">
+      </div>
+      <div class="form-group col-lg-4">
+        <label class="text-heading">Telefone</label>
+        <input type="tel" class="form-control">
+      </div>
+      <div class="clearfix"></div>
+      <div class="form-group col-lg-12">
+        <label class="text-heading">Mensagem</label>
+        <textarea class="form-control" rows="6"></textarea>
+      </div>
+      <div class="form-group col-lg-12">
+        <button type="submit" class="btn btn-secondary">Enviar</button>
+      </div>
+    </div>
+  </form>
+</div>
+<script>
+  $('.map-container').click(function () {
+    $(this).find('iframe').addClass('clicked')
+  }).mouseleave(function () {
+    $(this).find('iframe').removeClass('clicked')
+  });
+</script>
