@@ -80,3 +80,7 @@ hr.divider {
 .hide {
   display: none;
 }
+
+h6 small {
+  font-size: 0.70rem;
+}
