@@ -12,27 +12,29 @@ title: "| Projetos"
     {% endfor %}
   </h5>
 </div>
-{% for project in site.data.projects %}
-  <div class="bg-faded p-4 my-4 -js-project-box {% for tag in project.tags %} {{ tag | slugify }}{% endfor %}">
-    <div class="card card-inverse">
-      <img class="card-img img-fluid w-100" src="img/core/projects/{{ project.image_name }}" alt="">
-      <div class="card-img-overlay">
-        <h2 class="card-title text-shadow text-white text-uppercase mb-0">
-          {{ project.title }}
-        </h2>
-        <p>
-          {% for tag in project.tags %}
-            <span class="badge badge-light">{{ tag }}</span>
-          {% endfor %}
-        </p>
-        <h4 class="text-shadow text-white">{{ project.dates }}</h4>
-        <p class="lead card-text text-shadow text-white w-50 d-none d-lg-block">
-          {{ project.description }}
-        </p>
+<div class="card-columns">
+  {% for project in site.data.projects %}
+    <div class="bg-faded -js-project-box {% for tag in project.tags %} {{ tag | slugify }}{% endfor %}" style="max-width: 20rem;">
+      <div class="card card-inverse">
+        <img class="card-img-top" src="img/core/projects/{{ project.image_name }}" alt="">
+        <div class="card-body">
+          <h5 class="card-title text-uppercase mb-0">
+            {{ project.title }}
+          </h5>
+          <p class="card-text">
+            {% for tag in project.tags %}
+              <span class="badge badge-info">{{ tag }}</span>
+            {% endfor %}
+          </p>
+          <h6>{{ project.dates }}</h6>
+          <p class="card-text d-none d-lg-block">
+            {{ project.description }}
+          </p>
+        </div>
       </div>
     </div>
-  </div>
-{% endfor %}
+  {% endfor %}
+</div>
 <script type="text/javascript">
   $(function() {
     $('.-js-badge-filter').on('click', function(e) {
