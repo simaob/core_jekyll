@@ -9,8 +9,8 @@
     - PAISAGISMO
     - URBANISMO
   images:
+    - 004.jpg
     - 004_1.jpg
-    - 004_2.jpg
 
 - title: REABILITAÇÃO HABITAÇÃO R.C.
   image_name: 021.jpg
@@ -19,6 +19,8 @@
   tags:
     - HABITAÇÃO
     - REABILITAÇÃO
+  images:
+    - 021.jpg
 
 - title: HABITAÇÃO UNIFAMILIAR C.S.
   image_name: 033.jpg
@@ -26,6 +28,8 @@
   description: Projeto de arquitetura e especialidades para habitação unifamiliar, num terreno em gaveto no Porto. Programa desenvolvido em três pisos e logradouro, com área de construção aproximada de 272 m².
   tags:
     - HABITAÇÃO
+  images:
+    - 033.jpg
 
 - title: REABILITAÇÃO HABITAÇÃO S.O.
   image_name: 052.jpg
@@ -34,6 +38,8 @@
   tags:
     - HABITAÇÃO
     - REABILITAÇÃO
+  images:
+    - 052.jpg
 
 - title: ACESSOS VIÁRIOS - INSTALAÇÕES ÁGUAS DO NORTE
   image_name: 093.jpg
@@ -41,6 +47,8 @@
   description: Projeto de rede viária para reabilitação de acessos às infraestruturas hidráulicas das instalações de apoio das Águas do Norte numa extensão total de 18500 m.
   tags:
     - VIAS DE COMUNICAÇÃO
+  images:
+    - 093.jpg
 
 - title: HABITAÇÃO UNIFAMILIAR EM MAFAMUDE
   image_name: 098.jpg
@@ -48,6 +56,8 @@
   description: Projeto de licenciamento e execução de habitação unifamiliar em Mafamude, com área total de construção de 350 m² incluindo arquitetura e engenharias.
   tags:
     - HABITAÇÃO
+  images:
+    - 093.jpg
 
 - title: FÁBRICA PIZZAS DOMINO’S
   image_name: 129.jpg
@@ -55,6 +65,8 @@
   description: Projeto de especialidades para fábrica de pizzas Domino’s com área total construída de 2.500 m², incluindo estruturas, redes hidráulicas e ar comprimido.
   tags:
     - INDÚSTRIA
+  images:
+    - 129.jpg
 
 - title: REABILITAÇÃO DE HABITAÇÃO UNIFAMILIAR M.S.M.
   image_name: 142.jpg
@@ -63,6 +75,8 @@
   tags:
     - HABITAÇÃO
     - REABILITAÇÃO
+  images:
+    - 142.jpg
 
 - title: REMODELAÇÃO DE RESIDÊNCIAS UNIV. – SSGNR
   image_name: 144.jpg
@@ -71,6 +85,8 @@
   tags:
     - HABITAÇÃO
     - REABILITAÇÃO
+  images:
+    - 144.jpg
 
 - title: ARRANJO PAISAGÍSTICO EM REQUESENDE
   image_name: 155.jpg
@@ -78,6 +94,8 @@
   description: Projeto de paisagismo para edifício residencial e de serviços com uma área total de intervenção de 250 m².
   tags:
     - PAISAGISMO
+  images:
+    - 155.jpg
 
 
 - title: EXPANSÃO DE EDIFÍCIO INDUSTRIAL HUTCHINSON
@@ -86,6 +104,8 @@
   description: Projetos de engenharia para expansão da fábrica do grupo Hutchinson em Valongo num total de 2.500 m², nas especialidades de estruturas e redes hidráulicas (abastecimento, drenagem e pluviais).
   tags:
     - INDÚSTRIA
+  images:
+    - 156.jpg
 
 - title: INSPEÇÃO E ANÁLISE DE PATRIMÓNIO
   image_name: 163.jpg
@@ -95,6 +115,8 @@
     - COMÉRCIO E SERVIÇOS
     - INDÚSTRIA
     - REABILITAÇÃO
+  images:
+    - 163.jpg
 
 - title: FÁBRICA BELLINO & BELLINO
   image_name: 168.jpg
@@ -102,6 +124,8 @@
   description: Projeto de especialidades para reconversão da antiga fábrica Textil Bellino & Bellino em Gouveia para uso do município como espaço cultural numa área total edificada de 2.600 m².
   tags:
     - COMÉRCIO E SERVIÇOS
+  images:
+    - 168.jpg
 
 - title: LOJA PINGO DOCE – LOULÉ
   image_name: 170.jpg
@@ -109,6 +133,8 @@
   description: Projeto de licenciamento e execução das infraestruturas hidráulicas da loja Pingo Doce de Loulé inserida na superfície comercial IKEA “Mar Shopping - Loulé” numa área total de 3.000 m².
   tags:
     - COMÉRCIO E SERVIÇOS
+  images:
+    - 170.jpg
 
 - title: UNIDADE INDUSTRIAL MANGUALDE
   image_name: 181.jpg
@@ -116,6 +142,8 @@
   description: Projeto de arquitetura e especialidades de engenharias de dois pavilhões metálicos contíguos, incluindo escritórios, destinados à indústria automóvel, com área total de 7.625 m².
   tags:
     - INDÚSTRIA
+  images:
+    - 181.jpg
 
 - title: MUSEU CAVES CÁLEM
   image_name: 196.jpg
@@ -124,6 +152,8 @@
   tags:
     - COMÉRCIO E SERVIÇOS
     - REABILITAÇÃO
+  images:
+    - 196.jpg
 
 - title: BASE LOGÍSTICA DA NALCO
   image_name: 198.jpg
@@ -131,6 +161,8 @@
   description: Projeto de estruturas de diversos edifícios inseridos numa Base Logística com área total de 13.400 m², incluindo diversos pavilhões metálicos.
   tags:
     - INDÚSTRIA
+  images:
+    - 198.jpg
 
 - title: INSTALAÇÕES FABRIS DA AUSTRALPHARMA
   image_name: 208.jpg
@@ -138,6 +170,8 @@
   description: Projeto de especialidades da remodelação total e ampliação de um armazém com 2400 m², incluindo execução de novos pisos intermédios.
   tags:
     - INDÚSTRIA
+  images:
+    - 208.jpg
 
 - title: BASE LOGÍSTICA SLIA – WTC
   image_name: 213.jpg
@@ -145,6 +179,8 @@
   description: Projeto de estruturas e terraplenagens de uma Base Logística com 1 hectare, incluindo pavilhões metálicos, oficinas e edifícios técnicos com uma área total coberta de 2250 m².
   tags:
     - INDÚSTRIA
+  images:
+    - 213.jpg
 
 - title: RESTAURANTE CÁLEM
   image_name: 217.jpg
@@ -152,3 +188,5 @@
   description: Projeto de licenciamento e execução de arquitetura e especialidades para construção de restaurante, esplanada e take away na marginal fluvial do Douro, em V.N. Gaia, junto à Ponte D.Luís. Com capacidade para aproximadamente 165 pessoas, numa área de intervenção correspondente a cerca de 409 m².
   tags:
     - COMÉRCIO E SERVIÇOS
+  images:
+    - 217.jpg
