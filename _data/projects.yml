@@ -57,16 +57,7 @@
   tags:
     - HABITAÇÃO
   images:
-    - 033.jpg
-    
-- title: PISCINA PARA HABITAÇÃO
-  image_name: 034.jpg
-  dates: 06/2014
-  description: Projeto de estruturas para piscina exterior em betão, para habitação em Angola, com cerca de 60 m² de área e uma profundidade máxima de 3,30m.
-  tags:
-    - HABITAÇÃO
-  images:
-    - 034.jpg    
+    - 033.jpg 
 
 - title: PARQUE EÓLICO DO PISCO
   image_name: 040.jpg
@@ -77,14 +68,6 @@
   images:
     - 040.jpg   
 
-- title: LEGALIZAÇÃO HABITAÇÃO UNIFAMILIAR M.O.
-  image_name: 050.jpg
-  dates: 11/2014
-  description: Projeto de legalização das especialidades para uma habitação unifamiliar no Castêlo da Maia, incluindo estruturas, hidráulica, térmica, acústica, electricidade, ITED, gás e segurança contra incêndios, numa área total de construção de 213 m2.
-    - HABITAÇÃO
-  images:
-    - 050.jpg   
-
 - title: REABILITAÇÃO HABITAÇÃO S.O.
   image_name: 052.jpg
   dates: 02/2015 – 07/2015
@@ -94,16 +77,6 @@
     - REABILITAÇÃO
   images:
     - 052.jpg
-
-- title: RAMPA HABITAÇÃO UNIFAMILIAR
-  image_name: 054.jpg
-  dates: 01/2015
-  description: Projeto de vias de comunicação, de análise de uma rampa de acesso à garagem de habitação unifamiliar em Santo Tirso.
-  tags:
-    - HABITAÇÃO
-    - VIAS DE COMUNICAÇÃO
-  images:
-    - 054.jpg
 
 - title: HABITAÇÃO BIFAMILIAR F.J.G.S.
   image_name: 064.jpg
@@ -248,15 +221,6 @@
     - HABITAÇÃO
   images:
     - 116.jpg    
-
-- title: HABITAÇÃO UNIFAMILIAR E OFICINA – A.H.M.
-  image_name: 118.jpg
-  dates: 01/2016
-  description: Projeto de especialidades de legalização de habitação e oficina em Fologosa - maia, incluindo estruturas, hidráulica, ventilação, térmica, acústica, electricidade, ITED, gás e segurança contra incendio numa área total de 179 m2.
-  tags:
-    - HABITAÇÃO
-  images:
-    - 118.jpg   
 
 - title: REABILITAÇÃO DE HABITAÇÃO UNIFAMILIAR J.E.S.
   image_name: 121.jpg
