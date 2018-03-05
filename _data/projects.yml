@@ -135,8 +135,7 @@
     - REABILITAÇÃO
     - HABITAÇÃO
   images:
-    - 084.jpg   
-    - 084_01.jpg 
+    - 084.jpg    
     - 084_02.jpg
     - 084_03.jpg
     - 084_04.jpg
@@ -203,8 +202,8 @@
   tags:
     - HABITAÇÃO
   images:
-    - 098.jpg
-    - 098_02.jpg
+    - 098.jpeg
+    - 098_02.jpeg
     - 098_03.jpg
     
 - title: ERPI DE BRUÇÓ
@@ -216,7 +215,7 @@
     - COMÉRCIO E SERVIÇOS
   images:
     - 099.jpg
-    - 099_02.jpg
+    - 099_02.jpeg
 
 - title: REABILITAÇÃO DE EDIFÍCIO MULTIFAMILIAR A.R.G.
   image_name: 100.jpg
@@ -315,11 +314,11 @@
     - HABITAÇÃO
     - REABILITAÇÃO
   images:
-    - 121.jpg
-    - 121_02.jpg
-    - 121_03.jpg
-    - 121_04.jpg
-    - 121_05.jpg
+    - 121.jpeg
+    - 121_02.jpeg
+    - 121_03.jpeg
+    - 121_04.jpeg
+    - 121_05.jpeg
 
 - title: FÁBRICA PIZZAS DOMINO’S
   image_name: 129.jpg
@@ -402,8 +401,8 @@
     - HABITAÇÃO
   images:
     - 150.jpg
-    - 150_02.jpg
-    - 150_03.jpg
+    - 150_02.png
+    - 150_03.png
 
 - title: HABITAÇÃO UNIFAMILIAR A.B.
   image_name: 152.jpg
@@ -673,8 +672,8 @@
   tags:
     - COMÉRCIO E SERVIÇOS
   images:
-    - 224.jpg   
-    - 224_02.jpg
+    - 224.png   
+    - 224_02.png
     - 224_03.jpg
     
 - title: AVALIAÇÃO ESTRUTURAL DE PAVILHÕES METÁLICOS
@@ -703,7 +702,7 @@
   tags:
     - VIAS DE COMUNICAÇÃO
   images:
-    - 255.jpg  
+    - 255.png 
     - 255_02.jpg
     
 - title: ACESSO A LOTEAMENTO EM TORRES VEDRAS
@@ -767,6 +766,6 @@
   tags:
     - INDÚSTRIA
   images:
-    - 309.jpg   
-    - 309_02.jpg 
+    - 309.png  
+    - 309_02.png
     
