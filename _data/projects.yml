@@ -10,7 +10,32 @@
     - URBANISMO
   images:
     - 004.jpg
-    - 004_1.jpg
+    - 004_2.jpg
+    - 004_3.png
+    - 004_4.jpg
+    - 004_5.png
+    
+- title: REABILITAÇÃO DE EDIFÍCIO ARCO MAIOR
+  image_name: 005.jpg
+  dates: 11/2013
+  description: Projeto de estruturas para reabilitação de edifício centenário no centro do Porto para alteração de uso com área aproximada de intervenção de 320 m2, divididos por 4 pisos.
+  tags:
+    - REABILITAÇÃO
+  images:
+    - 005.jpg   
+    - 005_02.jpg
+    - 005_03.jpg
+
+- title: EDIFÍCIO DE COMANDO, AUDITÓRIO E SUBESTAÇÃO
+  image_name: 012.jpg
+  dates: 03/2014 – 04/2014
+  description: Projeto de licenciamento para legalização de edifício de comando, auditório e subestação do parque eólico dos Candeeiros em Rio Maior, com área de construção com cerca de 2173 m², dos quais 859 m² correspondem à subestação.
+  tags:
+    - INDÚSTRIA
+  images:
+    - 012.jpg
+    - 012_02.jpg
+    - 012_03.jpg
 
 - title: REABILITAÇÃO HABITAÇÃO R.C.
   image_name: 021.jpg
@@ -21,6 +46,22 @@
     - REABILITAÇÃO
   images:
     - 021.jpg
+    - 021_02.jpg
+    - 021_03.jpg
+    - 021_04.jpg
+    - 021_05.jpg
+    - 021_06.jpg
+
+- title: REMODELAÇÃO DE ESPAÇO INDUSTRIAL - CARTANGOLA
+  image_name: 023.jpg
+  dates: 09/2014 – 11/2014
+  description: Renovação de nave industrial incluindo novas áreas sociais, nova cobertura e novas instalações sanitárias/balneáreos, numa área total de 1200 m2.
+  tags:
+    - INDÚSTRIA
+    - REABILITAÇÃO
+  images:
+    - 023.jpg
+    - 023_02.jpg
 
 - title: HABITAÇÃO UNIFAMILIAR C.S.
   image_name: 033.jpg
@@ -29,7 +70,22 @@
   tags:
     - HABITAÇÃO
   images:
-    - 033.jpg
+    - 033.jpg 
+    - 033_02.jpg
+    - 033_03.jpg
+    - 033_04.jpg
+    - 033_05.jpg
+
+- title: PARQUE EÓLICO DO PISCO
+  image_name: 040.jpg
+  dates: 06/2014
+  description: Dimensionamento de aerogerador tipo, a edificar no parque eólico do Pisco, num total de 8 aerogeradores.
+  tags:
+    - INDÚSTRIA
+  images:
+    - 040.jpg  
+    - 040_02.jpg
+    - 040_03.jpg
 
 - title: REABILITAÇÃO HABITAÇÃO S.O.
   image_name: 052.jpg
@@ -40,7 +96,67 @@
     - REABILITAÇÃO
   images:
     - 052.jpg
+    - 052_02.jpg
+    - 052_03.jpg
+    - 052_04.jpg
+    - 052_05.jpg
+    - 052_06.jpg
 
+- title: HABITAÇÃO BIFAMILIAR F.J.G.S.
+  image_name: 064.jpg
+  dates: 02/2015
+  description: Projeto de licenciamento das especialidades para uma habitação bifamiliar na Foz do Douro, no Porto, incluindo estruturas, hidráulica, ventilação, térmica, acústica, electricidade, ITED e gás, numa área bruta de construção de 245 m2.
+  tags:
+    - HABITAÇÃO
+  images:
+    - 064.jpg
+    - 064_02.jpg
+    - 064_03.jpg
+    - 064_04.jpg
+
+- title: ARMAZÉNS EM V.N.GAIA
+  image_name: 076.jpg
+  dates: 04/2015 - 06/2015
+  description: Projeto de legalização de edifícios industriais em Vila Nova de Gaia, incluindo arquitetura, arranjos exteriores, estruturas, acústica e segurança contra incêndio, numa área total de 4250 m2.
+  tags:
+    - INDÚSTRIA
+    - COMÉRCIO E SERVIÇOS
+  images:
+    - 076.jpg
+    - 076_02.jpg
+    - 076_03.jpg
+    - 076_04.jpg
+    
+- title: REABILITAÇÃO DE HABITAÇÃO UNIFAMILIAR
+  image_name: 084.jpg
+  dates: 06/2015
+  description: Projeto de licenciamento das especialidades para uma habitação unifamiliar em Matosinhos, incluindo estruturas, hidráulica, ventilação, térmica, acústica, electricidade, ITED, gás e segurança contra incêndios, numa área bruta de construção de 321 m2.
+  tags:
+    - REABILITAÇÃO
+    - HABITAÇÃO
+  images:
+    - 084.jpg    
+    - 084_02.jpg
+    - 084_03.jpg
+    - 084_04.jpg
+    - 084_05.jpg
+    - 084_06.jpg
+
+- title: REABILITAÇÃO DE HABITAÇÃO C.C.
+  image_name: 089.jpg
+  dates: 04/2016
+  description: Projeto de especialidades para licenciamento de reabilitação e ampliação de edifício de habitação em Santo Tirso, com área bruta total de 328 m2, incluindo estruturas, hidráulica, térmica, acústica e gás.
+  tags:
+    - REABILITAÇÃO
+    - HABITAÇÃO
+  images:
+    - 089.jpg  
+    - 089_02.jpg
+    - 089_03.jpg
+    - 089_04.jpg
+    - 089_05.jpg
+    - 089_06.jpg
+    
 - title: ACESSOS VIÁRIOS - INSTALAÇÕES ÁGUAS DO NORTE
   image_name: 093.jpg
   dates: 11/2016 – 11/2017
@@ -49,6 +165,35 @@
     - VIAS DE COMUNICAÇÃO
   images:
     - 093.jpg
+    
+- title: HABITAÇÃO UNIFAMILIAR A.F.T.
+  image_name: 094.jpg
+  dates: 08/2015
+  description: Projeto de especialidades para construção de habitação unifamiliar em Milheirós - Maia, incluindo estruturas, hidráulica, ventilação, térmica, acústica, electricidade, ITED, gás e segurança contra incêndios, numa área total de construção de 242 m2, desenvolvida em cave e rés-do chão.
+  tags:
+    - HABITAÇÃO
+  images:
+    - 094.jpg    
+    - 094_02.jpg
+    - 094_03.jpg
+    - 094_04.jpg
+    - 094_05.jpg
+    - 094_06.jpg
+    - 094_07.jpg
+    
+- title: REABILITAÇÃO HABITAÇÃO M.L.F.C.
+  image_name: 095.jpg
+  dates: 08/2015
+  description: Projeto de especialidades de estruturas e gás, para licenciamento e execução de reconstrução, alteração e ampliação de edifício de habitação em Oliveira de Azeméis, com área aproximada de 200 m2.
+  tags:
+    - HABITAÇÃO
+    - REABILITAÇÃO
+  images:
+    - 095.jpg
+    - 095_02.jpg
+    - 095_03.jpg
+    - 095_04.jpg
+    - 095_05.jpg
 
 - title: HABITAÇÃO UNIFAMILIAR EM MAFAMUDE
   image_name: 098.jpg
@@ -57,7 +202,123 @@
   tags:
     - HABITAÇÃO
   images:
-    - 093.jpg
+    - 098.jpeg
+    - 098_02.jpeg
+    - 098_03.jpg
+    
+- title: ERPI DE BRUÇÓ
+  image_name: 099.jpg
+  dates: 09/2015 – 02/2016
+  description: Projeto de licenciamento de ampliação e readaptação de uma Estrutura Residencial Para Idosos em Bruçó, com 15 quartos para um total de 24 utentes, numa área total de construção de 2.500 m², distribuída em dois pisos.
+  tags:
+    - REABILITAÇÃO
+    - COMÉRCIO E SERVIÇOS
+  images:
+    - 099.jpg
+    - 099_02.jpeg
+
+- title: REABILITAÇÃO DE EDIFÍCIO MULTIFAMILIAR A.R.G.
+  image_name: 100.jpg
+  dates: 02/2016
+  description: Projeto de especialidades para licenciamento e execução de obras de conservação, alteração, reconstrução e ampliação de um edifício multifamiliar de habitação em Campanhã, com área total de 433 m2, onde se insere um T0, três T1 e um T2, incluindo estruturas, hidráulica, acústica, térmica e gás.
+  tags:
+    - REABILITAÇÃO
+    - HABITAÇÃO
+  images:
+    - 100.jpg
+    - 100_02.jpg
+    - 100_03.jpg
+    - 100_04.jpg
+    - 100_05.jpg
+    - 100_06.jpg
+    - 100_07.jpg
+    - 100_08.jpg
+    - 100_09.jpg
+    
+- title: HABITAÇÃO UNIFAMILIAR A.R.G.
+  image_name: 101.jpg
+  dates: 03/2016
+  description: Projeto de especialidades para licenciamento e execução de habitação unifamiliar em Campanhã - Porto, com um piso e área bruta total de 140 m2, incluindo estruturas, hidráulica, térmica, acústica e gás.
+  tags:
+    - REABILITAÇÃO
+    - HABITAÇÃO
+  images:
+    - 101.jpg    
+    - 101_02.jpg  
+    - 101_03.jpg 
+    - 101_04.jpg 
+    
+- title: REABILITAÇÃO DE HABITAÇÃO UNIFAMILIAR J.M.R.
+  image_name: 109.jpg
+  dates: 01/2016
+  description: Projeto de arquitetura e especialidades para alteração de habitação unifamiliar em Argela – Caminha, numa área total de 169 m2.
+  tags:
+    - REABILITAÇÃO
+    - HABITAÇÃO
+  images:
+    - 109.jpg  
+    - 109_02.jpg
+    - 109_03.jpg
+    - 109_04.jpg
+    - 109_05.jpg
+    - 109_06.jpg
+
+- title: SEDE CCDRN - PORTO
+  image_name: 112.jpg
+  dates: 06/2016
+  description: Arquitetura de interiores para remodelação de escritórios no centro do Porto numa área total de 450 m2.
+  tags:
+    - COMÉRCIO E SERVIÇOS
+  images:
+    - 112.jpg
+    - 112_02.jpg
+    - 112_03.jpg
+    - 112_04.jpg
+    - 112_05.jpg
+    - 112_06.jpg
+    - 112_07.jpg
+
+- title: REABILITAÇÃO EDIFICIO DE HABITAÇÃO
+  image_name: 114.jpg
+  dates: 02/2016 – 05/2016
+  description: Projeto de especialidades para reabilitação de edifício no centro do Porto com área de intervenção total de 600 m2.
+  tags:
+    - REABILITAÇÃO
+    - HABITAÇÃO
+  images:
+    - 114.jpg
+    - 114_02.jpg
+    - 114_03.jpg
+    - 114_04.jpg
+    
+- title: HABITAÇÃO UNIFAMILIAR H.P.
+  image_name: 116.jpg
+  dates: 03/2016
+  description: Projeto de licenciamento das especialidades para uma habitação unifamiliar em Águas Santas - Maia, incluindo estruturas, hidráulica, ventilação, térmica, acústica, electricidade, ITED, gás e segurança contra incêndios, numa área bruta de construção de 179 m2.
+  tags:
+    - HABITAÇÃO
+  images:
+    - 116.jpg 
+    - 116_02.jpg
+    - 116_03.jpg
+    - 116_04.jpg
+    - 116_05.jpg
+    - 116_06.jpg
+    - 116_07.jpg
+    
+- title: REABILITAÇÃO DE HABITAÇÃO UNIFAMILIAR J.E.S.
+  image_name: 121.jpg
+  dates: 01/2016
+  description: Projeto de arquitetura e especialidades para reabilitação e ampliação de habitação unifamiliar em Malta – Vila do Conde, com área bruta total de 285 m2, desenvolvido em dois pisos.
+  tags:
+    - HABITAÇÃO
+    - REABILITAÇÃO
+  images:
+    - 121.jpeg
+    - 121_02.jpeg
+    - 121_03.jpeg
+    - 121_04.jpeg
+    - 121_05.jpeg
 
 - title: FÁBRICA PIZZAS DOMINO’S
   image_name: 129.jpg
@@ -67,6 +328,10 @@
     - INDÚSTRIA
   images:
     - 129.jpg
+    - 129_02.jpg
+    - 129_03.jpg
+    - 129_04.jpg
+    - 129_05.jpg
 
 - title: REABILITAÇÃO DE HABITAÇÃO UNIFAMILIAR M.S.M.
   image_name: 142.jpg
@@ -77,6 +342,10 @@
     - REABILITAÇÃO
   images:
     - 142.jpg
+    - 142_02.jpg
+    - 142_03.jpg
+    - 142_04.jpg
+    - 142_05.jpg
 
 - title: REMODELAÇÃO DE RESIDÊNCIAS UNIV. – SSGNR
   image_name: 144.jpg
@@ -87,6 +356,76 @@
     - REABILITAÇÃO
   images:
     - 144.jpg
+    - 144_02.jpg
+    - 144_03.jpg
+
+- title: REMODELAÇÃO DE APARTAMENTO C.F.
+  image_name: 145.jpg
+  dates: 04/2016
+  description: Projeto de arquitetura de interiores de remodelação de um apartamento no centro do Porto, numa área total de 127 m2.
+  tags:  
+    - HABITAÇÃO
+    - REABILITAÇÃO
+  images:
+    - 145.jpg
+
+- title: ESTRADA MUNICIPAL DE ACESSO AO AVE PARK
+  image_name: 146.jpg
+  dates: 05/2016 – 02/2017
+  description: Revisão de projeto viário incluindo traçado, pavimento, redes hidráulicas e sinalização da estrada municipal de acesso ao Ave Park numa extensão total de 6 km.
+  tags:  
+    - VIAS DE COMUNICAÇÃO
+  images:
+    - 146.jpg
+    - 146_02.jpg
+    - 146_03.jpg
+
+- title: AMPLIAÇÃO DE HABITAÇÃO UNIFAMILIAR S.P.
+  image_name: 147.jpg
+  dates: 03/2016
+  description: Projeto de licenciamento de especialidades para ampliação de habitação unifamiliar em Arcozelo - Vila Nova de Gaia, incluindo estruturas, hidráulica, térmica, acústica, electricidade, ITED, gás e segurança contra incêndios, numa área total de construção de 195 m2.
+  tags:  
+    - HABITAÇÃO
+  images:
+    - 147.jpg
+    - 147_02.jpg
+    - 147_03.jpg
+    - 147_04.jpg
+    - 147_05.jpg
+    
+- title: HABITAÇÃO UNIFAMILIAR A.B.
+  image_name: 150.jpg
+  dates: 06/2016
+  description: Projeto de arquitetura e especialidades para habitação unifamiliar, num terreno em gaveto na Maia. Programa desenvolvido em dois pisos e área ajardinada, com área bruta de construção aproximada de 314 m2.
+  tags:  
+    - HABITAÇÃO
+  images:
+    - 150.jpg
+    - 150_02.png
+    - 150_03.png
+
+- title: HABITAÇÃO UNIFAMILIAR A.B.
+  image_name: 152.jpg
+  dates: 03/ 2016 – 04/2016
+  description: Projeto de especialidades para reabilitação de edifício no centro do Porto com área de intervenção total de 500 m2.
+  tags:  
+    - HABITAÇÃO
+    - REABILITAÇÃO
+  images:
+    - 152.jpg 
+    - 152_02.jpg
+
+- title: ESTACIONAMENTO E ACESSOS - TALATONA
+  image_name: 154.jpg
+  dates: 04/2016
+  description: Projeto de execução de vias de comunicação, para parque de estacionamento e arruamentos adjacentes de edifício de habitação e comércio em Talatona, Angola.
+  tags:  
+    - HABITAÇÃO
+    - REABILITAÇÃO
+  images:
+    - 154.jpg
+    - 154_02.jpg
+    - 154_03.jpg
 
 - title: ARRANJO PAISAGÍSTICO EM REQUESENDE
   image_name: 155.jpg
@@ -96,7 +435,7 @@
     - PAISAGISMO
   images:
     - 155.jpg
-
+    - 155_02.jpg
 
 - title: EXPANSÃO DE EDIFÍCIO INDUSTRIAL HUTCHINSON
   image_name: 156.jpg
@@ -106,6 +445,32 @@
     - INDÚSTRIA
   images:
     - 156.jpg
+    - 156_02.jpg
+    - 156_03.jpg
+
+- title: ARRANJO PAISAGÍSTICO EM ASPRELA
+  image_name: 161.jpg
+  dates: 06/2016
+  description: Projeto de paisagismo para edifício residencial e de serviços no Porto com uma área total de intervenção de 150 m2.
+  tags:
+    - PAISAGISMO
+    - HABITAÇÃO
+  images:
+    - 161.jpg
+
+- title: HABITAÇÃO UNIFAMILIAR J.G.C.
+  image_name: 162.jpg
+  dates: 09/2017
+  description: Projeto de especialidades para construção de habitação unifamiliar em Matosinhos, incluindo estruturas, hidráulica, ventilação, térmica, acústica, eletricidade, ITED, gás e segurança contra incêndios, numa área total de construção de 210 m2, desenvolvida em rés-do-chão e 1º andar.
+  tags:
+    - HABITAÇÃO
+  images:
+    - 162.jpg
+    - 162_02.jpg
+    - 162_03.jpg
+    - 162_04.jpg
+    - 162_05.jpg
+    - 162_06.jpg
 
 - title: INSPEÇÃO E ANÁLISE DE PATRIMÓNIO
   image_name: 163.jpg
@@ -117,6 +482,9 @@
     - REABILITAÇÃO
   images:
     - 163.jpg
+    - 163_02.jpg
+    - 163_03.jpg
+    - 163_04.jpg
 
 - title: FÁBRICA BELLINO & BELLINO
   image_name: 168.jpg
@@ -126,6 +494,7 @@
     - COMÉRCIO E SERVIÇOS
   images:
     - 168.jpg
+    - 168_02.jpg
 
 - title: LOJA PINGO DOCE – LOULÉ
   image_name: 170.jpg
@@ -135,6 +504,17 @@
     - COMÉRCIO E SERVIÇOS
   images:
     - 170.jpg
+    - 170_02.jpg
+
+- title: CARPETES & COMPANHIA | ARRÁBIDA SHOPPING
+  image_name: 178.jpg
+  dates: 11/2016
+  description: Projeto de licenciamento do espaço interior da loja Carpetes & Companhia, inserida na superfície comercial Arrábida Shopping, em Vila Nova de Gaia, numa área total de 190 m2.
+  tags:
+    - COMÉRCIO E SERVIÇOS
+  images:
+    - 178.jpg
+    - 178_02.jpg
 
 - title: UNIDADE INDUSTRIAL MANGUALDE
   image_name: 181.jpg
@@ -144,6 +524,11 @@
     - INDÚSTRIA
   images:
     - 181.jpg
+    - 181_02.jpg
+    - 181_03.jpg
+    - 181_04.jpg
+    - 181_05.jpg
+    - 181_06.jpg
 
 - title: MUSEU CAVES CÁLEM
   image_name: 196.jpg
@@ -154,6 +539,12 @@
     - REABILITAÇÃO
   images:
     - 196.jpg
+    - 196_02.jpg
+    - 196_03.jpg
+    - 196_04.jpg
+    - 196_05.jpg
+    - 196_06.jpg
+    - 196_07.jpg
 
 - title: BASE LOGÍSTICA DA NALCO
   image_name: 198.jpg
@@ -163,6 +554,23 @@
     - INDÚSTRIA
   images:
     - 198.jpg
+    - 198_02.jpg
+    - 198_03.jpg
+    - 198_04.jpg
+    - 198_05.jpg
+    - 198_06.jpg
+
+- title: BAIRRO DA CUMIEIRA - FAFE
+  image_name: 204.jpg
+  dates: 03/2017
+  description: Projeto de arranjos exteriores, traçado de estrada, pavimento, sinalização, redes públicas de distribuição de água, drenagem de águas residuais domésticas e drenagem de águas pluviais para bairro social com uma área total de intervenção de aproximadamente 38.000 m2.
+  tags:
+    - HABITAÇÃO
+    - VIAS DE COMUNICAÇÃO
+    - PAISAGISMO
+    - REABILITAÇÃO
+  images:
+    - 204.jpg
 
 - title: INSTALAÇÕES FABRIS DA AUSTRALPHARMA
   image_name: 208.jpg
@@ -172,6 +580,46 @@
     - INDÚSTRIA
   images:
     - 208.jpg
+    - 208_02.jpg
+
+- title: REQUALIFICAÇÃO URB. E PAISAGÍSTICA - ALHANDRA
+  image_name: 209.jpg
+  dates: 03/2017
+  description: Projeto de estruturas de diversos edifícios de apoio à requalificação urbana, inclui-se um armazém, bar, rampa de entrada de barcos, pontão metálico e diversos muros de suporte.
+  tags:
+    - REABILITAÇÃO
+    - COMÉRCIO E SERVIÇOS
+    - PAISAGISMO
+  images:
+    - 209.jpg
+    - 209_02.jpg
+    - 209_03.jpg
+    - 209_04.jpg
+    - 209_05.jpg
+    
+- title: REFORÇO DE FUNDAÇÕES DE CALDEIRA – SOTERNIX
+  image_name: 211.jpg
+  dates: 02/2017 - 01/2017
+  description: Projeto de estruturas metálicas e geotecnia de uma solução de reforço de fundações para uma caldeira em Barcelos.
+  tags:
+    - INDÚSTRIA
+  images:
+    - 211.jpg   
+    - 211_02.jpg
+    - 211_03.jpg
+    
+- title: REABILITAÇÃO ESTRADA ACESSO PUMANGOL
+  image_name: 212.jpg
+  dates: 01/2017 - 03/2017
+  description: Projeto de rede viária de uma estrada de acesso ao Pumangol com cerca de 200m.
+  tags:
+    - VIAS DE COMUNICAÇÃO
+  images:
+    - 212.jpg   
+    - 212_02.jpg
+    - 212_03.jpg
+    - 212_04.jpg
+    - 212_05.jpg    
 
 - title: BASE LOGÍSTICA SLIA – WTC
   image_name: 213.jpg
@@ -181,6 +629,20 @@
     - INDÚSTRIA
   images:
     - 213.jpg
+    - 213_02.jpg
+    - 213_03.jpg
+    - 213_04.jpg
+    - 213_05.jpg
+    
+- title: ALARGAMENTO PONTÃO – CABINDA
+  image_name: 214.jpg
+  dates: 05/2017
+  description: Projeto de estrutura para alargamento de pontão em Cabinda – Angola, numa área total de construção de 15 m2, passando sobre canal de drenagem existente.
+  tags:
+    - VIAS DE COMUNICAÇÃO
+  images:
+    - 214.jpg    
+    - 214_02.jpg
 
 - title: RESTAURANTE CÁLEM
   image_name: 217.jpg
@@ -190,3 +652,120 @@
     - COMÉRCIO E SERVIÇOS
   images:
     - 217.jpg
+    - 217_02.jpg
+    - 217_03.jpg
+    
+- title: EXPANSÃO DE NÚCLEO EMPRESARIAL SARCOL
+  image_name: 220.jpg
+  dates: 06/2016
+  description: Projeto de arquitetura para expansão do Núcleo Empresarial da Sarcol, em Matosinhos, criando novos módulos para empresas, prevendo flexibilidade de áreas, iluminação natural em todos os spaços e zona para co-working, numa área de intervenção com cerca de 1075 m2 em dois pisos.
+  tags:
+    - COMÉRCIO E SERVIÇOS
+  images:
+    - 220.jpg
+    - 220_02.jpg
+    
+- title: FACULDADE DE MEDICINA CABINDA
+  image_name: 224.jpg
+  dates: 01/2017 – 05/2017
+  description: Projeto de especialidades de estruturas e hidráulica para construção de faculdade de medicina em Cabinda – Angola, numa área total de construção 7310 m2.
+  tags:
+    - COMÉRCIO E SERVIÇOS
+  images:
+    - 224.png   
+    - 224_02.png
+    - 224_03.jpg
+    
+- title: AVALIAÇÃO ESTRUTURAL DE PAVILHÕES METÁLICOS
+  image_name: 232.jpg
+  dates: 02/2017
+  description: Avaliação estrutural de duas naves metálicas existentes com área total coberta de cerca de 4000m2.
+  tags:
+    - INDÚSTRIA
+  images:
+    - 232.jpg       
+    
+- title: REVISÃO PROJECTO CASAS D. LEONOR
+  image_name: 235.jpg
+  dates: 05/2017
+  description: Revisão de Projeto de Arquitetura e Especialidades do conjunto habitacional D. Leonor, constituído por diversos edifícios que albergam 70 apartamentos e 4 equipamentos sociais, com área total coberta de 9000m2.
+  tags:
+    - HABITAÇÃO
+    - COMÉRCIO E SERVIÇOS
+  images:
+    - 235.jpg  
+    
+- title: ACESSO À UNIDADE BILSTEIN
+  image_name: 255.jpg
+  dates: 05/2017
+  description: Projeto de rede viária de uma estrada de acesso à unidade Bilstein com cerca de 113 m.
+  tags:
+    - VIAS DE COMUNICAÇÃO
+  images:
+    - 255.png 
+    - 255_02.jpg
+    
+- title: ACESSO A LOTEAMENTO EM TORRES VEDRAS
+  image_name: 256.jpg
+  dates: 05/2017
+  description: Projeto de rede viária de uma estrada de acesso a loteamento com cerca de 300 m.
+  tags:
+    - VIAS DE COMUNICAÇÃO
+  images:
+    - 256.jpg  
+    - 256_02.jpg
+    
+- title: ARRANJO PAISAGISTÍCO UNIDADE IND. SCANIA - MAIA
+  image_name: 270.jpg
+  dates: 09/2017
+  description: Projeto de arranjos exteriores para unidade industrial da Scania, com uma área de intervenção aproximada de 450 m2.
+  tags:
+    - PAISAGISMO
+    - INDÚSTRIA
+  images:
+    - 270.jpg  
+    
+- title: JOSÉ LUÍS JÓIAS | MAR SHOPPING ALGARVE
+  image_name: 281.jpg
+  dates: 08/2017
+  description: Projeto de licenciamento do espaço interior da loja José Luís Jóias, inserida na superfície comercial Mar Shopping Algarve, em Loulé, numa área total de 39 m2. Inclui projeto de redes de águas e esgotos, AVAC, ITED, SCIE e Instalações Electricas.
+  tags:
+    - COMÉRCIO E SERVIÇOS
+  images:
+    - 281.jpg 
+    - 281_02.jpg
+    
+- title: REMODELAÇÃO E AMPLIAÇÃO - TOFA
+  image_name: 282.jpg
+  dates: 08/2017 - 09/2017
+  description: Projeto de estruturas para construção de balneários e lavandaria em Luanda – Angola, numa área total de construção 275 m2.
+  tags:
+    - INDÚSTRIA
+  images:
+    - 282.jpg  
+    - 282_02.jpg
+    - 282_03.jpg
+    - 282_04.jpg
+    - 282_05.jpg
+    - 282_06.jpg
+    
+- title: ARRANJOS EXTERIORES LOJAS LIDL
+  image_name: 299.jpg
+  dates: 08/2017 – 09/2017
+  description: Projeto de arranjos exteriores para três lojas LIDL em Tires, Silves e Vila Verde, com uma área total de intervenção superior a 10.000 m2.
+  tags:
+    - PAISAGISMO
+    - COMÉRCIO E SERVIÇOS
+  images:
+    - 299.jpg     
+ 
+- title: RESERVATÓRIO RIBEIRA DE FLAMINGOS - CABO VERDE
+  image_name: 309.jpg
+  dates: 09/2017
+  description: Projeto de estruturas para a construção de um reservatório de 100 m3 em alvenaria resistente em Ribeira de Flamingos, Cabo Verde.
+  tags:
+    - INDÚSTRIA
+  images:
+    - 309.png  
+    - 309_02.png
+    
